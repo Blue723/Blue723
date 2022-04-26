@@ -1,4 +1,4 @@
-![image.png](img/Github_Banner.png)
+![image.png](img/Github_Banner_0.png)
 
 # About Me
 
