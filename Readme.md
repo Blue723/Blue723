@@ -1,7 +1,6 @@
 # About Me
 
-I am Morgan A. Keith a Data Scientist with a Bachelor’s and programming skills for data manipulation, data visualization, statistical analysis, machine learning and deep learning. My background as a gymnast and a coach led me to develop exceptional team-building and decision-making skills in goal-oriented environments to drive best results. I am well-versed in best practices for business requirements and integrity, as well as data science functions including predictive analytics.
-
+I am Morgan A. Keith, I received my Bachelor's in Psychology from OU where I was a club gymnast and part of a team that won 2x National Champions. I achieved individual accolades as a gymnast, and as a coach had the opportunity to coach boy's gymnastics who also earned State and Regional accolades. After my 20 years in the gymnastics community, I was an Inventory Specialist where I improved production processes and safety. I enjoyed training new hires and using my investigative skills to solve inventory discrepancies, but I found working with data to solve and predict workflow and production issues to be what intrigued me. From here, I discovered my love of Data Science and joined Flatiron to improve my data analytics skills, build machine learning models, and create visuals to convey my findings. Now, I pursue my passion for Data Science by continuously learning and improving on new skills, as well as building projects.
 
 ### Projects
 
