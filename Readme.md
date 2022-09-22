@@ -11,11 +11,12 @@ Use Python to create classification models that predict delivery status as Advan
 - Implemented supervised learning models (Random Forest, XGBoost) through pipelines to achieve highest accuracy test results (0.86) on classification models
 
 
-#### Predicting Delivery Status 
-Use Python to create classification models that predict delivery status as Advanced, On Time, or Late
-- Extract Data (170k+), clean, filter, and aggregate data for quantitative analysis
-- Work independently and decision-making to strategize the project and Powerpoint presentation
-- Implemented supervised learning models (Random Forest, XGBoost) through pipelines to achieve highest accuracy test results (0.86) on classification models
+#### Housing Price Prediction 
+Use Python to create SARIMA models to predict housing trends.
+- Extract data and data management such as clean and filter data for quality assurance
+- Performed a quantitative analysis and visualization housing price trends in the Houston,TX area
+- Predictive analytics on housing prices 3 years in advance with the confidence interval to represent risk
+
 
 
 #### Airline Delays 
