@@ -1,30 +1,27 @@
 # About Me
 
-I am Morgan Keith, I use data science to predict classifications for data with machine learning techniques. As a former gymnast and coach I worked in a team and taught others based on their strengths. I worked in inventory which required creatively finding and solving errors in the process. I use these skills to work in a team to creatively solve problems while building machine learning models.
+I am Morgan A. Keith a Data Scientist with a Bachelor’s and programming skills for data manipulation, data visualization, statistical analysis, machine learning and deep learning. My background as a gymnast and a coach led me to develop exceptional team-building and decision-making skills in goal-oriented environments to drive best results. I am well-versed in best practices for business requirements and integrity, as well as data science functions including predictive analytics.
 
 
 ### Projects
 
-##### Airline Delays
-
-Used Decision Tree, Random Forest, and XGBoost to predict a flight’s delay.
-- Decision Tree used the feature's trend with a flight delay 
-- Random Forest aggregates all the features of a flight’s delay trend 
-- Used XGBoost for gradient descent ability to minimize loss and predict delays  
-- RandomSearchCV to tune parameters and improve prediction results
+#### Predicting Delivery Status 
+Use Python to create classification models that predict delivery status as Advanced, On Time, or Late
+- Extract Data (170k+), clean, filter, and aggregate data for quantitative analysis
+- Work independently and decision-making to strategize the project and Powerpoint presentation
+- Implemented supervised learning models (Random Forest, XGBoost) through pipelines to achieve highest accuracy test results (0.86) on classification models
 
 
+#### Predicting Delivery Status 
+Use Python to create classification models that predict delivery status as Advanced, On Time, or Late
+- Extract Data (170k+), clean, filter, and aggregate data for quantitative analysis
+- Work independently and decision-making to strategize the project and Powerpoint presentation
+- Implemented supervised learning models (Random Forest, XGBoost) through pipelines to achieve highest accuracy test results (0.86) on classification models
 
-##### Housing Price Prediction
 
-Used SARIMA modeling to predict future house pricing within the confidence interval.
-- Set index to time series and used pandas melt to transform the dataframe from wide to long
-- SARIMA model uses autorregressive (p), moving average(q), differencing to series (d), to weight more recent events higher
-- Visualize predicted housing prices 3 years in advance with the confidence interval to represent uncertainty
+#### Airline Delays 
+Use Decision Tree, Random Forest, and XGBoost to predict a flight’s delay for selected destinations.
+- Use dataset of 160k+ for quantitative analysis and use supervised learning models predictive classification
+- Normalize and standardize data for accurate and quality modeling
+- Used XGBoost for gradient descent ability to decrease loss and predict delays with an increase accuracy (.74)
 
-##### Predicting Delivery Status
-
-Used Logistic Regression, Random Forest, and XGBoost to predict order status
-- Logistic Regression to observe how a baseline model predicted.
-- Random Forest to aggregate various model classification outcomes
-- XGBoost, its bagging helped improve the model, since the data has unequal samples sizes, the larger samples provied less noise. 
