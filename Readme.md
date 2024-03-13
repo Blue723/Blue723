@@ -4,14 +4,21 @@ I am Morgan A. Keith, I received my Bachelor's in Psychology from OU where I was
 
 ### Projects
 
-#### Predicting Delivery Status 
+#### NFL Data Analysis App - [Github](https://github.com/Blue723/NFL_Data_App), [App Link](https://footballdataapp.streamlit.app/)
+Build Python / Streamlit app for users to analyze NFL statistics using ETL processes
+- Use Python to web scrape data, create dataframes, and export to files
+- Built relational database in SQL to easily create tables
+- Use Python / Streamlit as framework to select and view data frames and graphs for data analysis
+
+
+#### Predicting Delivery Status - [Github](https://github.com/Blue723/Predicting_Delivery_Status)
 Use Python to create classification models that predict delivery status as Advanced, On Time, or Late
 - Extract Data (170k+), clean, filter, and aggregate data for quantitative analysis
 - Work independently and decision-making to strategize the project and Powerpoint presentation
 - Implemented supervised learning models (Random Forest, XGBoost) through pipelines to achieve highest accuracy test results (0.86) on classification models
 
 
-#### Housing Price Prediction 
+#### Housing Price Prediction - [Github](https://github.com/Blue723/Housing_Time_Series)
 Use Python to create SARIMA models to predict housing trends.
 - Extract data and data management such as clean and filter data for quality assurance
 - Performed a quantitative analysis and visualization housing price trends in the Houston,TX area
@@ -19,9 +26,14 @@ Use Python to create SARIMA models to predict housing trends.
 
 
 
-#### Airline Delays 
+#### Airline Delays  - [Github](https://github.com/Blue723/Airline_Delays)
 Use Decision Tree, Random Forest, and XGBoost to predict a flight’s delay for selected destinations.
 - Use dataset of 160k+ for quantitative analysis and use supervised learning models predictive classification
 - Normalize and standardize data for accurate and quality modeling
 - Used XGBoost for gradient descent ability to decrease loss and predict delays with an increase accuracy (.74)
 
+
+
+```python
+
+```
